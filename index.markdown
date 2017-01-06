@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Andrew Spencer
 header: Hello There
 image: "/uploads/Sparkbox-Summer-2016-020_saplingSite.jpg"
 layout: default
