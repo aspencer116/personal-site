@@ -1,7 +1,7 @@
 ---
 title: Title
 header: Hello There
-image: 
+image: "/uploads/Sparkbox-Summer-2016-020_saplingSite.jpg"
 layout: default
 ---
 
