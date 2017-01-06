@@ -5,8 +5,8 @@ image: "/uploads/Sparkbox-Summer-2016-020_saplingSite.jpg"
 layout: default
 ---
 
-My name is Andrew and I am a creative problem solver working as a Frontend Designer for Sparkbox. 
+I am a creative problem solver designing and building a better web at [Sparkbox](https://seesparkbox.com/). I am a visual problem solver with interests in both designing beautiful websites and writing the front-end code to make them work.
 
-My site is currently under construction. I have some big improvements in the plans but crafting a great site takes time.
+In my spare time I take on the occasional freelance branding or design project.
 
-In the meantime, you can view my work on Dribbble, Behance, and Instagram or connect via email.
+My main website is currently under construction. In the meantime, you can view my work on [Dribbble](https://dribbble.com/aspencer_ginger), [Behance](https://www.behance.net/andrew_spencer), and [Instagram](https://www.instagram.com/1.ginger/) or connect via [email](mailto:connect@andrew-spencer.com).
