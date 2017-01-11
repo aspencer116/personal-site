@@ -25,8 +25,14 @@
 
   // Accounting for the wysiwyg things
   a {
-    color:#E75E37;
+    color: #4C5068;
+    font-weight: 600;
     text-decoration:none;
+    transition: all 300ms ease;
+
+    &:hover {
+      color: #E75E37;
+    }
   }
   h1 {
 
