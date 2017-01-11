@@ -25,10 +25,11 @@
 
   // Accounting for the wysiwyg things
   a {
-    color: #4C5068;
+    color: #707482;
     font-weight: 600;
     text-decoration:none;
     transition: all 300ms ease;
+    cursor: pointer;
 
     &:hover {
       color: #E75E37;
