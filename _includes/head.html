@@ -44,12 +44,11 @@
 
     <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
 
-    <!-- Facebook -->
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:image" content="http://{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/uploads/image.png{% endif %}" />
+    <!-- Open Graph -->
+    <meta property="og:title" content="Andrew Spencer — Designer & Web Developer">
+    <meta property="og:url" content="http://andrew-spencer.com">
+    <meta property="og:description" content="Portfolio of Andrew Spencer, a designer and web developer who carries a unique balance of creativity and logic.">
+    <meta property="og:image" content="http://andrew-spencer.com/andrew-spencer-pnw-woods.jpg" />
 
     <!-- Google Anylitics -->
     <script>
